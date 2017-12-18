@@ -1,4 +1,4 @@
-## RWD
+## RWD . &nbsp; 📄 
 
 - designing sites with multiple screen sizes/resolutions in mind.
 - sites should work under any platform, any browser size, any orientation.

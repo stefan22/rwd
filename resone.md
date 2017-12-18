@@ -39,7 +39,7 @@
 
 #### absolute measurements:  &nbsp; :triangular_ruler:
 - ***pixel*** 
-  + 1 pixel is equal to 1/96th of 1 inch
+  + 1 pixel is equal to 1/96th of 1 inch . (see font-size def below)
 
 - mm,cm, in
 
@@ -60,7 +60,7 @@
   + in general an em is the equal to 16px
 
 - ***rem***
-  + font size of the root element
+  + font size of the root element (see image below)
 
 - ***vw*** (for viewport width)
   + viewport's width, is 1/100th of the width of the viewport
@@ -77,21 +77,17 @@
 
 
 #### using fonts responsively
-- choosing the right metric is critical for responsive interfaces
+choosing the right metric is critical for responsive interfaces
 
-+ pixels
-
++ ***pixels***
 pixels are an absolute unit of measurement - meaning they are the same size regardless of the size of anything else.
 once the pixel value is chosen for a font, the type size will remain the same across all devices and browsers.
-For example setting a pixel vale to the body's font-size, will permeate nearly
+```For example``` setting a pixel value to the body's font-size, will permeate nearly
 all other elements. Then you have to override manually in order to set different values.
 
-+ ems
++ ***ems***
 ems are a relative measurement of lenght.   
-the size of an em is relative to the font-size of its parent element.      
-For example, if we build a ```<div>``` and include text with a font-sized of 16 pixels, 1em will correspond to 16 pixels, 2em to 32 pixels, and so on.
-So once you set a pixel size on a container, you can then make your changes accordingly. Ems are also resizeable in all browsers.
-
+the size of an em is ***relative to the font-size of its parent element***.      
 ```
   ex:
   Let's say the font-size of a <div> is 16px. Inside the <div> you have a <p>, you can then set that font-size of the <p> to 2em and that will be equal to 32px.
@@ -101,21 +97,18 @@ So once you set a pixel size on a container, you can then make your changes acco
 
 ```
 
-
-
-+ percentages
-
-just like ems, percentages are resizeable units for font size and their Css declarations can be inherited. There isn't a big difference between ***ems*** and ***percentages***.  
++ ***percentages***
+just like ems, percentages ***are resizeable units*** for font size and their Css declarations can be inherited. There isn't a big difference between ***ems*** and ***percentages***.      
 One way to rule out percentages is to set:
 ```
  { font-size: 100%; }
 
 ```
 
-+ rems
-
++ ***rems***
 its behaviour is similar to that of the em unit, with one main difference:
-its value it's relative to the root element of the document (that's the <html> element) and not any other. Nesting its irrelevant unlike <ems>.
+***its value it's relative to the root element of the document*** (that's the <html> element) and not any other. 
+***Nesting its irrelevant*** unlike <ems>.
 ***rems*** are always relative to the font-size of the top level <html> element   
 Not supported by all browsers, still a relatively new unit
 

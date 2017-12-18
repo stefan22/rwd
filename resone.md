@@ -35,9 +35,9 @@
 - less redirection = lower load time
 
 
-### fluid measurements
+### fluid measurements 
 
-#### absolute measurements:
+#### absolute measurements:  &nbsp; :triangular_ruler:
 - ***pixel*** 
   + 1 pixel is equal to 1/96th of 1 inch
 
@@ -50,7 +50,7 @@
   + 1 pica is equal to 12 points
 
 
-#### relative measurements
+#### relative measurements   &nbsp; :triangular_ruler:
 
 - ***%***
   + percentage values are always relative to another value, for example length

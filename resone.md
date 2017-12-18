@@ -24,11 +24,11 @@
 - this can be detected automatically, by looking for ***meta name = 
   "viewport"***
 - adaptive is when the server returns different code (Html and Css) depending
-  on the device requesting the page. The same URL is used.
+  on the device requesting the page. (The same URL is used.)     
 - Dedicated mobile site, a separate URL serves different code to desktop and 
   mobile devices
 
-### why RWD?
+### why RWD? &nbsp; :ship:
 - easier to share your data with a single URL
 - easier for search engines to index the page
 - fewer files = less maintenance

@@ -1,16 +1,16 @@
 ## advanced styling/ RWD  notes &nbsp; :clipboard:
 <kbd>(a Cal State University, San Francisco, course) &nbsp; :rooster:</kbd>
 
-+ :black_nib: what makes for good responsive design .    
-+ :black_nib: the role of fluid measurements .      
-+ :black_nib: media queries   
++ what makes for good responsive design . :memo:   
++ the role of fluid measurements .      
++ media queries   
   - best practice   
   - breakpoints   
-+ :black_nib: frameworks    
++ frameworks    
   - benefits/pitfalls   
-+ :black_nib: Bootstrap 3   
++ Bootstrap 3   
   - grid system   
   - navigation bar   
   - advanced techniques   
-+ :black_nib: case studies   
++ case studies   
 

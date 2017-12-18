@@ -12,7 +12,7 @@
 - flexible grid-based layout for relative sizing
 - flexible images
 
-## RWD options
+## RWD options &nbsp; :fishing_pole_and_fish:
 
 - responsive web design => fluid measurements, flexible grids, css rules
 - adaptive design => returns one of multiple versions of a page based on device

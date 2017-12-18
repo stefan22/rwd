@@ -2,7 +2,7 @@
 <kbd>(a Cal State University, San Francisco, course) &nbsp; :rooster:</kbd>
 
 + what makes for good responsive design . :notebook:  
-+ the role of fluid measurements . :notebook:    
++ the role of fluid measurements . :page_with_curl:    
 + media queries   :notebook: 
   - best practice   
   - breakpoints   

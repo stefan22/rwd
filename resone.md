@@ -105,10 +105,10 @@ One way to rule out percentages is to set:
 
 + ***rems***
 its behaviour is similar to that of the em unit, with one main difference:    
- - ***its value it's relative to the root element of the document***     
- - ***nesting*** its ***irrelevant*** here unlike <ems>     
- - ***rems*** are always relative to the font-size of the top level ***<html> element***   
- - not supported by all browsers, still a relatively new unit
+    - ***its value it's relative to the root element of the document***     
+    - ***nesting*** its ***irrelevant*** here unlike <ems>     
+    - ***rems*** are always relative to the font-size of the top level ***<html> element***   
+    - not supported by all browsers, still a relatively new unit
 
 ### pixels, ems, and rems in common &nbsp; :space_invader:
 each is a unit of length used to define the size of elements on a webpage.

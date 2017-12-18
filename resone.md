@@ -76,8 +76,7 @@
 
 
 
-#### using fonts responsively
-choosing the right metric is critical for responsive interfaces
+### choosing the right metric is critical for responsive interfaces
 
 + ***pixels***
 pixels are an absolute unit of measurement - meaning they are the same size regardless of the size of anything else.
@@ -94,7 +93,6 @@ the size of an em is ***relative to the font-size of its parent element***.
   But let's say you have a blockquote element inside the p, and you set that to 1em, you will then get 16px.    
   16px inside the quote because is now relative to the <p> and not the font-size set at the <div>.   
   The <p> tag is now 2em or 32px, then half of that (or 1em) would be 16px.
-
 ```
 
 + ***percentages***
@@ -106,17 +104,17 @@ One way to rule out percentages is to set:
 ```
 
 + ***rems***
-its behaviour is similar to that of the em unit, with one main difference:
-***its value it's relative to the root element of the document*** (that's the <html> element) and not any other. 
-***Nesting its irrelevant*** unlike <ems>.
-***rems*** are always relative to the font-size of the top level <html> element   
+its behaviour is similar to that of the em unit, with one main difference:    
+***its value it's relative to the root element of the document*** (that's the <html> element). 
+Nesting its ***irrelevant*** here unlike <ems>     
+***rems*** are always relative to the font-size of the top level ***<html> element***   
 Not supported by all browsers, still a relatively new unit
 
-#### pixels, ems, and rems in common
+#### pixels, ems, and rems in common &nbsp; :space_invader:
 each is a unit of length used to define the size of elements on a webpage.
 They can be used on divs, margins, padding and so on.
 
-#### difference between ems and rems
+#### difference between ems and rems &nbsp; :space_invader:
 
 although both are relative units of measurement, with rems you only define your font-size once (at the top level <html> element), then everything is relative to that.   
 With ems, you need to always remember the parent's font-size, because it changes as you start nesting.

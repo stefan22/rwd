@@ -75,7 +75,7 @@
 > always make sure they work and stay clean by adding one rule and testing it.
 
 
-### note about media query placement (depends on min-width or max-width)
+### note about media query placement (depends on min-width or max-width) &nbsp; :mushroom:
 
 - if assuming ***min-width***, put the rules on the bottom
 

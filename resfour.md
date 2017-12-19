@@ -7,7 +7,7 @@
 - others use their own code and add funtionality
 - but even 'pure' coders should know the basics of one popular framework
 
-## twitter bootstrap
+## twitter bootstrap . &nbsp; :radio:
 
 - framework for creating websites
 - mobile first approach
@@ -16,7 +16,7 @@
    + javascript extensions
 - emphasis on interfaces and layouts
 
-### popular sites built or were built using Bootstrap
+### popular sites built or were built using Bootstrap &nbsp; :radio:
 
 - nba.com
 - target.com
@@ -26,7 +26,7 @@
 - airbnb.com
 
 
-### benefits of working with bootstrap
+### benefits of working with bootstrap &nbsp; :radio:
 
 - 12-column grid system
   + helps with spacing issues
@@ -41,18 +41,18 @@
 - responsive by default
 - customizable
 
-### two ways to use bootstrap
+### two ways to use bootstrap &nbsp; :cake:
 
 - as a supplement to your style
 - as a theme that you expand upon
 
-## bootstrap breakpoints
+## bootstrap breakpoints &nbsp; :cake:
 
 - bootstrap hardcodes the breakpoints for different viewports
 - the intention is to use the mobile-first paradigm
 - plan for the smallest screen and make adjustments size gets larger
 
-### the smallest size deals with a width of 0 - 320px
+### the smallest size deals with a width of 0 - 320px &nbsp; :cake:
 
 - some browser may never trigger something on the 300s
 

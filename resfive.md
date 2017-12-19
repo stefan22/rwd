@@ -21,6 +21,9 @@
 <kbd>grid</kbd><br/>
 ![](images/grid.png)
 
+<hr/>
+<br/>
+
 
 - classes propagate from small to large
 - if you don't specify nothing for large, then whatever you specify for

@@ -13,7 +13,7 @@
 - you should have ***min-width*** instead of ***max-width***
 
 
-### media queries step 1
+### media queries step 1 &nbsp; :water_buffalo:
 
 - the meta viewport tag tells mobile browser's viewport how to behave
 
@@ -24,7 +24,7 @@
 
 ```
 
-### media queries step 2
+### media queries step 2 &nbsp; :water_buffalo:
 
 - use fluid layouts
 - if you use breakpoints, some absolute measurements are not unusual
@@ -35,13 +35,13 @@
   affected by ***width*** not height
 
 
-### media queries step 3
+### media queries step 3 &nbsp; :water_buffalo:
 
 - including the media queries - fluid layout that is triggered by certain sizes
 - design for ***small screen*** and ***work bigger***  
 
 
-### stylesheets order
+### stylesheets order &nbsp; :water_buffalo:
 
 > when triggering for ***minimum width*** you wanna have your 
   ***smallest sizes*** first.

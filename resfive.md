@@ -18,6 +18,9 @@
    yy => 0..12
 
 ```
+<kbd>grid</kbd><br/>
+![](images/grid.png)
+
 
 - classes propagate from small to large
 - if you don't specify nothing for large, then whatever you specify for
@@ -25,7 +28,10 @@
 
 - on viewports ***md*** and ***lg*** there is an option for pull and push
 
+`col-xx-push`    
   + ***col--xx-yy*** -> move `yy` number of columns to the ***right***
+
+`col-xx-pull`   
   + ***col--xx-yy*** -> move `yy` number columns to the ***left***
 
   + ***hidden-xx*** -> content will only be hidden on the **xx** screen size
@@ -40,6 +46,20 @@
 ### notes
 
 - bootstrap is mobile first, larger screens inherit values from smaller screens
+- rows must be placed within a ***.container***
+- use rows to create horizontal group of columns
+- content should be placed within columns and ***only*** columns may be
+  immediate children of rows
+
+- helper classes:
+  + .clearfix
+  + .col-xx-offset
+  + .col-xx-push
+  + .col-xx-pull
+
+
+
+![](images/bootlast.png)
 
 
 

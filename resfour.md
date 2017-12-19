@@ -56,20 +56,20 @@
 
 - some browser may never trigger something on the 300s
 
-### extra small devices and phones
+### extra small devices and phones &nbsp; :cactus:
 
 - referred to as ***xs***
 - any device that has a ***minimum width*** of ***480px***
 - most phones fall into this category, even in landscape position
 
-### small devices and tablets
+### small devices and tablets  &nbsp; :cactus:
 
 - referred to as ***sm***
 - any device that has a minimum width of ***768px***
 - most tablet fall into this category, as well as desktop browsers that
   are opened in a small size.
 
-### medium devices and desktops
+### medium devices and desktops  &nbsp; :cactus:
 
 - referred to as ***md***
 - any device that has a minimum width of ***992px***
@@ -77,7 +77,7 @@
   it is possible that people have set their smaller devices to use a larger
   number(e.g. 992px) to trigger this viewport.
 
-### large devices and wide screens
+### large devices and wide screens  &nbsp; :cactus:
 
 - referred to as ***lg***
 - any device that has a minimum width of ***1200px***

@@ -1,6 +1,6 @@
-## bootstrap navigation
+## bootstrap navigation 
 
-- decide what type of links u want:
+- decide what type of links u want: &nbsp; :scroll:
   + nav-tabs
   + nav-pills
 
@@ -18,11 +18,11 @@
       <a href="#">Messages</a>
      </li>
     </ul>
-
-
 ```
+<hr/>
+<br/>
 
-- decide on layout (horizontal, stack, justified, etc)
+- decide on layout (horizontal, stack, justified, etc)  &nbsp; :trumpet:
 
 
 ```
@@ -40,10 +40,7 @@
      </li>
     </ul>
 
-
 ```
-
-
 ```
   ex: of nav-justified 
 
@@ -65,11 +62,12 @@
 - by default bootstrap is going to spread tabs evenly
 
 ```
+<hr/>
+<br/>
 
-### drop downs
+### drop downs &nbsp; :saxophone:
 
-- to add dropdown menus you need to include the ***bootstrap js*** files
-  and a link to the ***jQuery***
+- to add dropdown menus you need to include the ***bootstrap js*** files and a link to the ***jQuery*** 
 
 
 ```
@@ -100,13 +98,9 @@
        </li>
      </ul>
 
-
-
-
-
 ```  
 
-### navbar class
+### navbar class  &nbsp; :clapper:
 
 - the navbar class serves as a navigation header for your application  or site.
 - navbar positioning:
@@ -151,7 +145,7 @@
 
 ```
 
-> note: using a `nav` class does not convey semantics
+> note: using a `nav` class does not convey semantics &nbsp; :cherries:
 > ARIA attribute => role="navigation"
 
 

@@ -68,8 +68,9 @@
 
 ```
 
+<kbd>bootstrap table</kbd>
 
-
+![](images/bootable.png)
 
 
 

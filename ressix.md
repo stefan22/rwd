@@ -100,10 +100,6 @@
        </li>
      </ul>
 
-
-
-
-
 ```  
 
 ### navbar class

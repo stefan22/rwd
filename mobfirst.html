@@ -3,6 +3,7 @@
 <head>
    <meta charset="utf" />
    <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
    <title>selectors</title>
 <style type="text/css">
  * {
@@ -16,6 +17,10 @@
 
  .wrapper {
   padding:0 10px;
+ }
+
+ .first {
+  margin:0 20px;
  }
 
  section {
@@ -54,7 +59,24 @@
   margin-right: 0
  }
 
- @media screen and (min-width: 791px) {
+ div[class^="visible"] {
+  border:1px solid black;
+  margin-top: 3%;
+ }
+
+ div[class$=lg] {
+  color:red;
+ }
+
+ div[class$=md] {
+  color:blue;
+ }
+
+ div[class$=sm] {
+  color:green;
+ }
+
+/* @media screen and (min-width: 791px) {
   nav {
    width: 27%;
    display: inline-block;
@@ -74,7 +96,7 @@
    float: left;
    height: 100vh;
   }
- }
+ }*/
 
 
 
@@ -88,11 +110,43 @@
   <a href="">Recipes</a>
   <a href="">Contact</a>
  </nav>
- <section>
+ <section class="first">
   <h2>Playing with Horizontal and Vertical  Navigation Menus</h2>
   <p>This is a separate section that will hold the content for each page.  The next paragraph is just filler text. It doesn't mean anything.</p>
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia, temporibus, culpa! Impedit amet voluptates reiciendis esse quisquam. Eum quia, facere laboriosam quos possimus, ratione, optio incidunt sunt dolorum commodi magni.</p>
  </section>
 
+ <section class="container">
+    <div class="row">
+      <div class="col-md-6 col-lg-3">
+        <div class="visible-xs visible-sm">Extra small screen</div>
+        <div class="visible-xs visible-sm">Small screen</div>
+        <div class="visible-md">Medium screen</div>
+        <div class="visible-lg">Large screen</div>
+      </div>
+      <div class="col-md-6 col-lg-3">
+        <div class="visible-xs visible-sm">Extra small screen</div>
+        <div class="visible-xs visible-sm">Small screen</div>
+        <div class="visible-md">Medium screen</div>
+        <div class="visible-lg">Large screen</div>
+      </div>
+      <div class="col-md-6 col-lg-3">
+        <div class="visible-xs visible-sm">Extra small screen</div>
+        <div class="visible-xs visible-sm">Small screen</div>
+        <div class="visible-md">Medium screen</div>
+        <div class="visible-lg">Large screen</div>
+      </div>
+      <div class="col-md-6 col-lg-3">
+        <div class="visible-xs visible-sm">Extra small screen</div>
+        <div class="visible-xs visible-sm">Small screen</div>
+        <div class="visible-md">Medium screen</div>
+        <div class="visible-lg">Large screen</div>
+      </div>
+    </div>
+    <!-- endof row -->
+ </section>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
+<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </div>
 </html>

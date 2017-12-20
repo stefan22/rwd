@@ -63,6 +63,12 @@
 
 ```
 <hr/>
+
+<kbd>navbar</kbd>
+![](images/navbar-3.gif)
+
+
+
 <br/>
 
 ### drop downs &nbsp; :saxophone:
@@ -150,8 +156,7 @@
 
 
 
-<kbd>navbar</kbd>
-[](images/navbar-3.gif)
+
 
 
 

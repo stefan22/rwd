@@ -14,3 +14,11 @@
   - advanced techniques   
 + case studies   :bomb:
 
+
+
+<hr/>
+<br/>
+
+
+<kbd>bootstrap</kbd>
+![](images/btstrp.jpg)

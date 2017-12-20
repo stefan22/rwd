@@ -1,5 +1,5 @@
 ## advanced styling/ RWD  notes &nbsp; :clipboard:
-<kbd>(a Cal State University, San Francisco, course) &nbsp; :rooster:</kbd>
+<kbd>(a Michigan State University, online course) &nbsp; :rooster:</kbd>
 
 + what makes for good responsive design .
 + the role of fluid measurements . 

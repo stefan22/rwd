@@ -32,10 +32,10 @@
 
 - on viewports ***md*** and ***lg*** there is an option for pull and push
 
-`col-xx-push`    
+   `col-xx-push`    
   + ***col--xx-yy*** -> move `yy` number of columns to the ***right***
 
-`col-xx-pull`   
+   `col-xx-pull`   
   + ***col--xx-yy*** -> move `yy` number columns to the ***left***
 
   + ***hidden-xx*** -> content will only be hidden on the **xx** screen size

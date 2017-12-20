@@ -151,7 +151,7 @@
 
 
 <kbd>navbar</kbd>
-[](images/navbar-3.gif)
+![](images/navbar-3.gif)
 
 
 

@@ -40,10 +40,7 @@
      </li>
     </ul>
 
-
 ```
-
-
 ```
   ex: of nav-justified 
 

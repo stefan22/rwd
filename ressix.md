@@ -67,7 +67,7 @@
 
 ### drop downs &nbsp; :saxophone:
 
-- to add dropdown menus you need to include the ***bootstrap js*** files and a link to the ***jQuery*** &nbsp; :cherries:
+- to add dropdown menus you need to include the ***bootstrap js*** files and a link to the ***jQuery*** 
 
 
 ```
@@ -145,7 +145,7 @@
 
 ```
 
-> note: using a `nav` class does not convey semantics
+> note: using a `nav` class does not convey semantics &nbsp; :cherries:
 > ARIA attribute => role="navigation"
 
 

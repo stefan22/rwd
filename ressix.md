@@ -156,6 +156,11 @@
 
 
 
+<kbd>navbar</kbd>
+[](images/navbar-3.gif)
+
+
+
 
 
 

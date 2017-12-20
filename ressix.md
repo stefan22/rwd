@@ -1,6 +1,6 @@
-## bootstrap navigation
+## bootstrap navigation 
 
-- decide what type of links u want:
+- decide what type of links u want: &nbsp; :scroll:
   + nav-tabs
   + nav-pills
 
@@ -22,7 +22,7 @@
 <hr/>
 <br/>
 
-- decide on layout (horizontal, stack, justified, etc)
+- decide on layout (horizontal, stack, justified, etc)  &nbsp; :trumpet:
 
 
 ```
@@ -67,7 +67,7 @@
 
 ### drop downs
 
-- to add dropdown menus you need to include the ***bootstrap js*** files
+- to add dropdown menus you need to include the ***bootstrap js*** files &nbsp; :saxophone:
   and a link to the ***jQuery***
 
 
@@ -101,7 +101,7 @@
 
 ```  
 
-### navbar class
+### navbar class  &nbsp; :clapper:
 
 - the navbar class serves as a navigation header for your application  or site.
 - navbar positioning:

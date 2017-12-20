@@ -22,3 +22,7 @@
 
 <kbd>bootstrap</kbd>
 ![](images/btstrp.jpg)
+
+
+<br/>
+![](images/sidebar-5-600.gif)

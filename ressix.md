@@ -62,6 +62,8 @@
 - by default bootstrap is going to spread tabs evenly
 
 ```
+<hr/>
+<br/>
 
 ### drop downs
 

@@ -18,10 +18,9 @@
       <a href="#">Messages</a>
      </li>
     </ul>
-
-
 ```
 <hr/>
+<br/>
 
 - decide on layout (horizontal, stack, justified, etc)
 

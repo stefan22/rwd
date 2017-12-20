@@ -24,7 +24,7 @@
 <hr/>
 <br/>
 
-&nbsp; :black_nib: &nbsp; notesA:
+### &nbsp; :black_nib: &nbsp; notesA:
 
 - classes propagate from small to large
 - if you don't specify nothing for large, then whatever you specify for
@@ -47,7 +47,7 @@
   + ***sr-only*** -> content is hidden on all devices except screen readers    
 
 
-### notesB &nbsp; :closed_book:
+### notesB &nbsp; :closed_book::
 
 - bootstrap is mobile first, larger screens inherit values from smaller screens
 - rows must be placed within a ***.container***

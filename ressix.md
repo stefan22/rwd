@@ -21,6 +21,7 @@
 
 
 ```
+<hr/>
 
 - decide on layout (horizontal, stack, justified, etc)
 

@@ -47,7 +47,7 @@
   + ***sr-only*** -> content is hidden on all devices except screen readers    
 
 
-### notesB &nbsp; :closed_book::
+### notesB: &nbsp; :closed_book:
 
 - bootstrap is mobile first, larger screens inherit values from smaller screens
 - rows must be placed within a ***.container***

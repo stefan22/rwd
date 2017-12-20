@@ -25,4 +25,5 @@
 
 
 <br/>
-![](images/navbar-3.gif)
+
+[](images/sidebar-5-600.gif)

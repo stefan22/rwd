@@ -65,10 +65,9 @@
 <hr/>
 <br/>
 
-### drop downs
+### drop downs &nbsp; :saxophone:
 
-- to add dropdown menus you need to include the ***bootstrap js*** files &nbsp; :saxophone:
-  and a link to the ***jQuery***
+- to add dropdown menus you need to include the ***bootstrap js*** files and a link to the ***jQuery*** &nbsp; :cherries:
 
 
 ```

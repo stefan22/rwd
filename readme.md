@@ -28,6 +28,7 @@
 
 
 <hr/>
+<kbd>carousel mobile-first, no bootstrap</kbd>
 <br/>
 
 ![](images/carousel.png)

@@ -5,7 +5,7 @@
 - min-width:200px;
 - set height to ***auto***
 
-### bootstrap image classes
+### bootstrap image classes &nbsp; :oncoming_bus:
 
 - `img-responsive`, standard img responsive class
 - `img-rounded`, adds a little bit of border radius to image
@@ -40,7 +40,7 @@
 
 ```
 
-## tables
+## tables &nbsp; :tram:
 
 - .table, adds some padding and horizontal dividers
 - .table-striped, zebra stripes where `odd` rows have light color
